@@ -1,0 +1,28 @@
+Activate sender node :
+----------------------
+Run the MainSender program using rover ID & destination ip as the parameter
+
+cmd:javac Main_Sender.java	
+    java Main_Sender Rover_id Destination_IP
+ eg.java Main_Sender 102 192.0.0.5
+	
+To Activate Receiver Node:
+--------------------------
+Simply run the MainReceiver program with rover ID as parameter
+
+cmd:javac Main_Receiver.java 
+    java Main_Receiver Rover_ID
+eg. java Main_Receiver 101
+
+
+
+Once Receiver and Sender are Running you will 
+be presented with 4 options on the sender side:
+
+1. Send Text File
+2. Send Image File
+3. Send Command
+4. Exit
+
+The file paths have been entered already so you only need to select the option
+NOTE: for option 3 you must type a command
