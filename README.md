@@ -14,8 +14,8 @@ for high speed packet transfer.
 - Sends a connection failed message to ensure user knows if anything unforseen happens
 
 ## 🧑‍💻️ Usage
-
-<video src="test clip.mp4" controls></video>
+Download and checkout the proccess:
+[Output](https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol/blame/035cd1e0146deef89ebeea41ed7027e2f93f2fee/test%20clip.mp4)
 
 
 ## 🛠 Skills
