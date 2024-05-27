@@ -21,8 +21,6 @@ Download and checkout the proccess:
 ## 🛠 Skills
 Java , computer networks , network protocols , socket programming 
 
-## 📖 Libraries Used
-BeautifulSoup4, requests , smtplib , time , datetime, csv , os
 
 ## 📃 Lessons Learnt
 
